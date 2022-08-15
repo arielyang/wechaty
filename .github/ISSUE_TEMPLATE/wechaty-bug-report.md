@@ -15,7 +15,7 @@ about: Create a bug report for a bug you found in wechaty
     npm install
     ```
 
-2. Please search in [FAQ List](https://wechaty.js.org/faq) first, and make sure your problem has not been solved before.
+2. Please search in [FAQ List](https://wechaty.js.org/docs/explanations/faq) first, and make sure your problem has not been solved before.
 
 3. Please search in the issue first, and make sure your problem had not been reported before
 
@@ -67,7 +67,7 @@ Steps to reproduce the behavior:
 
 ## 6. Full Output Logs
 
-> Set env `WECHATY_LOG=silly` in order to set log level to silly, then we can get the full log (If you dosen't set log env, log level is info as default, we cannot get the full log)
+> Set env `WECHATY_LOG=silly` in order to set log level to silly, then we can get the full log (If you doesn't set log env, log level is info as default, we cannot get the full log)
 
 **We need full log instead of log screenshot or log fragments!**
 
